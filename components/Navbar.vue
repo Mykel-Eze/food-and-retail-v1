@@ -16,32 +16,32 @@
                 </ul>
 
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <!-- <li>
+                    <li>
                         <router-link to="/" class="" @click="scrollToTop()">
                             <span>Home</span>
                         </router-link>
-                    </li> -->
+                    </li>
                     <li>
                         <router-link to="/about" class="" @click="scrollToTop()">
                             <span>About</span>
                         </router-link>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a href="#partner-form-modal" class="modal-trigger">
                             <span>Become a Partner</span>
                         </a>
-                    </li>
+                    </li> -->
                     <li>
                         <router-link to="/faq" class="" @click="scrollToTop()">
                             <span>FAQ</span>
                         </router-link>
                     </li>
                     <li class="contact-us-li">
-                        <router-link to="/shop-now" class="" @click="scrollToTop()">
-                            <button class="nav-pry-btn btn pointer">
-                                Shop Now <span>&#62;</span>
+                        <a href="#partner-form-modal" class="modal-trigger" @click="scrollToTop()">
+                            <button class="nav-pry-btn btn pointer flex-div">
+                                <span>Become a Partner</span> <span class="btn-icon">&#8250;</span>
                             </button>
-                        </router-link>
+                        </a>
                     </li>
                 </ul>
               </div>
@@ -65,16 +65,21 @@
             </router-link>
         </li>
         <li>
+            <router-link to="/faq" class="sidenav-close" @click="scrollToTop()">
+                <span>FAQ</span>
+            </router-link>
+        </li>
+        <li>
             <a href="#partner-form-modal" class="sidenav-close modal-trigger">
                 <span>Become a Partner</span>
             </a>
         </li>
         <li class="contact-us-li">
-            <router-link to="/shop-now" class="" @click="scrollToTop()">
+            <a href="#partner-form-modal" class="modal-trigger">
                 <button class="nav-pry-btn btn pointer">
-                    Shop Now <span>&#62;</span>
+                    Become a Partner<span>&#62;</span>
                 </button>
-            </router-link>
+            </a>
         </li>
     </ul>
 

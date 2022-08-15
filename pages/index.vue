@@ -19,252 +19,127 @@
       </div>
     </section>
 
-    <!--==== Problem-n-Solution Section  ====-->
-    <section id="problem-n-solution" class="section">
+    <!--==== About Section  ====-->
+    <section id="about">
       <div class="row">
         <div class="container">
-          <div class="tab-btn-wrapper">
-            <ul class="tabs">
-              <li class="tab">
-                <a class="active" href="#the-problem">The Problem</a>
-              </li>
-              <li class="tab">
-                <a href="#the-solution">The Solution</a>
-              </li>
-            </ul>
-            <div id="the-problem" class="col s12">
-              <p class="tab-desc-txt center">
-                <span>Enhancing Food Processing for  smallholder farmers </span> <br />
-                <span>Pathway to commercial Farming </span>
-              </p>
-              <div class="problem-block-wrapper">
-                <div class="problem-block">
-                  <h5 class="problem-block-title">Subsistence <br /> farmers</h5>
-                  <ul class="problem-block-list">
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text">
-                        In need of subsidized modern inputs and extension services to support across planting lifecycle
-                      </span>
-                    </li>
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Requires access to markets through offtakers </span>
-                    </li>
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Requires support with additional land </span>
-                    </li>
-                  </ul>
-                </div>
-                <div class="problem-block">
-                  <h5 class="problem-block-title">Pre-commercial smallholder farmer</h5>
-                  <ul class="problem-block-list">
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Stepping up into commercial farming </span>
-                    </li>
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Subsidized support of inputs provided to farmers </span>
-                    </li>
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Requires support with additional land  </span>
-                    </li>
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Access to more diversified crops  </span>
-                    </li>
-                  </ul>
-                </div>
-                <div class="problem-block">
-                  <h5 class="problem-block-title">Commercial smallholder farmer</h5>
-                  <ul class="problem-block-list">
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Farming as a business </span>
-                    </li>
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Accessing inputs on commercial terms </span>
-                    </li>
-                    <li>
-                      <span class="list-bullet">→</span>
-                      <span class="list-text"> Securing land rights and development of efficient land markets </span>
-                    </li>
-                  </ul>
-                </div>
-
-
-                <!-- <div class="problem-block-sub-wrapper"></div> -->
+          <div class="col s12 sect-heading">
+              <h4 class="section-title">About Japatini food and retail</h4>
+              <span class="sect-title-desc">
+                Food processing or value addition and packaging along with storage and local or regional distribution or export
+                to international markets are critical to wealth creation and food security. Japtini Food and Retail was
+                established to contribute towards increasing capacity utilisation of existing facilities through contract milling,
+                and where necessary directly invest in processing facilities to link up with our distribution and export
+                operations. Our operations provide a consistent and fair market for farmers through our partnerships with large
+                aggregators.
+              </span>
+          </div>
+          <div class="col s12 our-mission-block">
+            <div class="om-title-side-block">
+              <div class="om-title-side">
+                <span>Our Mission</span>
+                <hr class="short-line">
               </div>
-              <div class="problem-stats-wrapper">
-                <div class="problem-stat">
-                  <img src="../assets/images/problem-1.svg" alt="stat-icon" class="problem-stat-img">
-                  <h2 class="problem-stat-figure">70%</h2>
-                  <span class="problem-stat-desc">
-                    of the population in Sub-Saharan Africa are smallholder farmers
-                  </span>
-                  <hr class="stat-divider" />
-                </div>
-
-                <div class="problem-stat">
-                  <img src="../assets/images/problem-2.svg" alt="stat-icon" class="problem-stat-img">
-                  <h2 class="problem-stat-figure">41m</h2>
-                  <span class="problem-stat-desc">
-                    farms smaller than 2ha (threshold size for a small farm)
-                  </span>
-                  <hr class="stat-divider" />
-                </div>
-
-                <div class="problem-stat">
-                  <img src="../assets/images/problem-3.svg" alt="stat-icon" class="problem-stat-img">
-                  <h2 class="problem-stat-figure">51m</h2>
-                  <span class="problem-stat-desc">
-                    farms in Africa
-                  </span>
-                  <hr class="stat-divider" />
-                </div>
-
-                <div class="problem-stat">
-                  <img src="../assets/images/problem-4.svg" alt="stat-icon" class="problem-stat-img">
-                  <h2 class="problem-stat-figure">80%</h2>
-                  <span class="problem-stat-desc">
-                    of the food produced in SSA is produced by smallholder farmers
-                  </span>
-                  <hr class="stat-divider" />
-                </div>
-
-                <div class="problem-stat">
-                  <img src="../assets/images/problem-5.svg" alt="stat-icon" class="problem-stat-img">
-                  <h2 class="problem-stat-figure">7%</h2>
-                  <span class="problem-stat-desc">
-                    The portion of world smallholder farmers that participate in tight value chains
-                  </span>
-                </div>
+              <div class="om-img-side">
+                <img src="../assets/images/man-and-woman.jpg" alt="man-and-woman" class="om-img">
               </div>
             </div>
-
-            <div id="the-solution" class="col s12">
-              <p class="tab-desc-txt center">
-                We provide smallholder farmers with end-to-end services with women and youth as the major target groups
-              </p>
-              <div class="solution-block-wrapper">
-                <div class="solution-block">
-                  <img src="../assets/images/solution-1.svg" alt="solution-img" class="solution-icon">
-                  <p>
-                    Alluvial provides smallholder farmers with opportunities to process their farm produce and market the
-                    product to the market on their behalf by proving all processing and marketing solutions
-                  </p>
-                </div>
-                <div class="solution-block">
-                  <img src="../assets/images/solution-2.svg" alt="solution-img" class="solution-icon">
-                  <p>
-                    Communities are engaged through existing cooperative groups or associations where cost of processing
-                    is agreed and partnership is secured to access processing plants.
-                  </p>
-                </div>
-                <div class="solution-block">
-                  <img src="../assets/images/solution-3.svg" alt="solution-img" class="solution-icon">
-                  <p>
-                    Farmers register, open a bank account using their equity contributions and are signed up on a digital platform
-                  </p>
-                </div>
-              </div>
-              <div class="col s12 pad0 sect-contents marquee-content">
-                  <div class="marquee-item">
-                      <img src="../assets/images/img-overflow-2.png" alt="full-img-gallery" class="full-width">
-                  </div>
-                  <div class="marquee-item">
-                      <img src="../assets/images/img-overflow-2.png" alt="full-img-gallery" class="full-width">
-                  </div>
-              </div>
+            <div class="om-list-side-block pry-bg">
+              <ul class="om-list">
+                <li class="flex-div">
+                  <img src="../assets/images/leaf-list-icon.svg" alt="icon" class="list-icon">
+                  <span>
+                    To efficiently and cost-effectively provide quality food to end consumers across Africa
+                  </span>
+                </li>
+                <li class="flex-div">
+                  <img src="../assets/images/leaf-list-icon.svg" alt="icon" class="list-icon">
+                  <span>
+                    To bridge the gap between farmers and consumers thus guaranteeing market access for smallholder farmers.
+                  </span>
+                </li>
+                <li class="flex-div">
+                  <img src="../assets/images/leaf-list-icon.svg" alt="icon" class="list-icon">
+                  <span>
+                    To support processing companies through contract milling thereby ensuring full capacity-utilization of
+                    existing processing facilities and encouraging expansion.
+                  </span>
+                </li>
+                <li class="flex-div">
+                  <img src="../assets/images/leaf-list-icon.svg" alt="icon" class="list-icon">
+                  <span>
+                    Where necessary invest in new processing capacity
+                  </span>
+                </li>
+                <li class="flex-div">
+                  <img src="../assets/images/leaf-list-icon.svg" alt="icon" class="list-icon">
+                  <span>
+                    Strengthen national export markets by investing in value addition and export systems
+                  </span>
+                </li>
+              </ul>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!--==== Problem-n-Solution Section  ====-->
+    <!--==== About Section  ====-->
 
-    <!--==== Farmers-Income Section  ====-->
-    <section id="farmers-income" class="section">
+    <!--==== What-We-Do Section  ====-->
+    <section id="what-we-do" class="section">
       <div class="row">
         <div class="container">
           <div class="mid-sect-wrapper col s12 pad0">
-              <div class="col s12 center sect-heading">
-                  <h4 class="section-title center">Better income for farmers</h4>
+              <div class="col s12 sect-heading">
+                  <h4 class="section-title center">What we do</h4>
                   <span class="sect-title-desc">
-                      We enable farmers by cutting off the middlemen in the supply chain and providing farmers direct
-                      access to the business and retail market which helps them generate higher income and a better
-                      livelihood.
+                    We manufacture and distribute packaged food products to African markets, addressing localised nutrition
+                    needs by offering affordable and fortified products. Our toll milling and contract manufacturing supports
+                    processors by ensuring constant capacity utilization thus generating and sustaining thousands of jobs
+                    through our network of farmers, suppliers, wholesalers, local buying agents and service providers.
+                    In addition to our internal sourcing and markets.
                   </span>
               </div>
-
-              <div class="sect-contents custom-carousel-wrapper col s12 pad0">
-                  <div class="col s12 l6 int-img-side text-center-xs">
-                      <img src="../assets/images/slider-1.png" alt="slide-img" class="int-img active-int-img">
-                      <img src="../assets/images/slider-2.png" alt="slide-img" class="int-img">
-                      <img src="../assets/images/slider-3.png" alt="slide-img" class="int-img">
-                  </div>
-
-                  <div class="col s12 l6 int-txt-side">
-                      <ul class="int-txt-indicator">
-                          <li class="txt-indicator-block active-indicator-block">
-                              <div class="indicator-icon-wrapper">
-                                <img src="../assets/images/indicator.svg" alt="indicator" class="slider-indicator-icon">
-                              </div>
-                              <div class="indicator-txt-wrapper">
-                                <h4 class="indicator-title">No more spoilage</h4>
-                                <span class="indicator-text">
-                                    The possibility of product spoilage while being transported will become a thing
-                                    of the past because we maintain the quality of products across the supply chain
-                                    through tighter control of internal inventories, internal production, distribution,
-                                    sales, and the use of an exceptional delivery service - Japtini Logistics.
-                                </span>
-                              </div>
-                          </li>
-                          <li class="txt-indicator-block">
-                              <div class="indicator-icon-wrapper">
-                                <img src="../assets/images/indicator.svg" alt="indicator" class="slider-indicator-icon">
-                              </div>
-                              <div class="indicator-txt-wrapper">
-                                <h4 class="indicator-title">Small or big, We'll meet your needs</h4>
-                                <span class="indicator-text">
-                                    We aim to bridge the gap between the demand and availability of dry foods in Africa,
-                                    also easing product procurement and ensuring constant supply for businesses like Restaurants,
-                                    traditional retailers, and even households.
-                                </span>
-                              </div>
-                          </li>
-                          <li class="txt-indicator-block">
-                              <div class="indicator-icon-wrapper">
-                                <img src="../assets/images/indicator.svg" alt="indicator" class="slider-indicator-icon">
-                              </div>
-                              <div class="indicator-txt-wrapper">
-                                <h4 class="indicator-title">Optimised distribution</h4>
-                                <span class="indicator-text">
-                                    We cut the unnecessary logistics steps making deliveries more affordable, without hidden costs,
-                                    and creating more flexibility for your urban, last-mile orders.
-                                </span>
-                              </div>
-                          </li>
-                      </ul>
-                  </div>
+              <div class="full-image-wrapper">
+                <img src="../assets/images/what-we-do.svg" alt="what-we-do" class="full-width">
               </div>
           </div>
         </div>
       </div>
     </section>
-    <!--==== end of Farmers-Income Section  ====-->
+    <!--==== end of What-We-Do Section  ====-->
+
+    <!--==== Our-Process Section  ====-->
+    <section id="our-process" class="section">
+      <div class="row">
+        <div class="container">
+          <div class="mid-sect-wrapper col s12 pad0">
+              <div class="col s12 sect-heading">
+                  <h4 class="section-title center">Our Process</h4>
+                  <span class="sect-title-desc">
+                    Safety, Quality and Efficiency are cornerstones of our processes. We utilize processing and manufacturing
+                    facilities in good proximity to production and consumer markets, thereby facilitating, creating and
+                    sustaining employment and reducing our carbon footprint. Our processing capacity is achieved by off
+                    taking produce directly from aggregators or traders.
+                  </span>
+              </div>
+              <div class="col s12 grid-full-image-wrapper">
+                <img src="../assets/images/process-img-1.jpg" alt="process image" class="process-img full-width">
+                <img src="../assets/images/process-img-2.jpg" alt="process image" class="process-img full-width">
+              </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--==== end of Our-Process Section  ====-->
 
     <!--==== Product-Gallery Section  ====-->
     <section id="product-gallery-section" class="section">
       <div class="row">
-          <div class="container*">
+          <div class="container">
               <div class="mid-sect-wrapper col s12 pad0">
                   <div class="col s12 m10 offset-m1 l6 offset-l3 center sect-heading">
-                      <h4 class="section-title center">Some of our focus food product</h4>
+                      <h4 class="section-title center">Some of our focus food products</h4>
                       <span class="sect-title-desc">
                           We Increase capacity utilisation of processing facilities to boost food security
                       </span>
@@ -272,17 +147,134 @@
 
                   <div class="col s12 pad0 sect-contents marquee-content">
                       <div class="marquee-item">
-                          <img src="../assets/images/img-overflow.png" alt="full-img-gallery" class="full-width">
+                          <img src="../assets/images/img-overflow-3.png" alt="full-img-gallery" class="full-width">
                       </div>
                       <div class="marquee-item">
-                          <img src="../assets/images/img-overflow.png" alt="full-img-gallery" class="full-width">
+                          <img src="../assets/images/img-overflow-3.png" alt="full-img-gallery" class="full-width">
                       </div>
                   </div>
               </div>
           </div>
       </div>
-  </section>
-  <!--==== end of Product-Gallery Section  ====-->
+    </section>
+    <!--==== end of Product-Gallery Section  ====-->
+
+    <!--==== Export-Processing Section  ====-->
+    <section id="export-processing" class="section">
+      <div class="row">
+          <div class="container">
+              <div class="mid-sect-wrapper col s12 pad0">
+                  <div class="col s12 m10 offset-m1 l6 offset-l3 center sect-heading">
+                      <h4 class="section-title center">Export Processing</h4>
+                      <span class="sect-title-desc">
+                          Some of our export processing products includes Ginger, Sesame, Cocoa, Cashew and Gum Arabic.
+                      </span>
+                  </div>
+              </div>
+          </div>
+          <div class="col s12 pad0 sect-contents pry-bg">
+              <div class="container">
+                <div class="col s12 m10 offset-m1 export-process-img-wrapper">
+                    <img src="../assets/images/processing-img.png" alt="food collage" class="export-process-img full-width">
+                </div>
+              </div>
+          </div>
+      </div>
+    </section>
+    <!--==== end of Export-Processing Section  ====-->
+
+    <!--==== Sustainability Section  ====-->
+    <section id="sustainability" class="section">
+      <div class="row">
+          <div class="container">
+              <div class="mid-sect-wrapper col s12 pad0">
+                  <div class="col s12 m10 offset-m1 l8 offset-l2 center sect-heading">
+                      <h4 class="section-title center">Sustainability</h4>
+                      <span class="sect-title-desc">
+                        Sustainability is at the fabric of our decision making as a business. Our Sustainability
+                        strategy and framework enables us to translate our sustainability goals into practice.
+                      </span>
+                  </div>
+
+                  <div class="col s12 sustainability-grid">
+                    <div class="sustainability-item-block pry-bg">
+                      <img src="../assets/images/sustainability-1.jpg" alt="sustainability image" class="sustainability-block-img">
+                      <div class="sustainability-txts">
+                        <div class="sustainability-block-header">
+                          <div class="sustainability-title">Food Safety and Quality</div>
+                          <hr class="sbh-line">
+                        </div>
+                        <p class="sustainability-desc">
+                          Ensuring our ingredients and products are delivered to customers without contamination or adulteration
+                          is our no. 1 priority. We operate highly integrated supply chains working closely with growers and
+                          aggregators to ensure we offtake produce with the highest standards of quality. We also work closely
+                          with Processors to monitor strict microbiological control at processing plants in origin and in
+                          destination markets, thereby reducing food safety risks.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="sustainability-item-block pry-bg">
+                      <img src="../assets/images/sustainability-2.jpg" alt="sustainability image" class="sustainability-block-img">
+                      <div class="sustainability-txts">
+                        <div class="sustainability-block-header">
+                          <div class="sustainability-title">Innovation and Technology</div>
+                          <hr class="sbh-line">
+                        </div>
+                        <p class="sustainability-desc">
+                          We harness technology and science to make our business more efficient. Our distribution is supported
+                          by a digital collections’ application and our e-commerce platform. Consumers can order any Japtini
+                          product via the e-commerce platform and we will handle delivery to the chosen destination.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="sustainability-item-block pry-bg">
+                      <img src="../assets/images/sustainability-3.jpg" alt="sustainability image" class="sustainability-block-img">
+                      <div class="sustainability-txts">
+                        <div class="sustainability-block-header">
+                          <div class="sustainability-title">Governance</div>
+                          <hr class="sbh-line">
+                        </div>
+                        <p class="sustainability-desc">
+                          Transparency, Integrity and Accountability – these values, along with our drive for a consistently
+                          strong financial growth, guides how we conduct our business and sets the standards for how we run
+                          the company.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </section>
+    <!--==== end of Sustainability Section  ====-->
+
+    <!--==== Partnerships Section  ====-->
+    <section id="partnerships" class="section">
+      <div class="row">
+          <div class="container">
+              <div class="mid-sect-wrapper col s12 pad0">
+                  <div></div>
+                  <div class="partnership-txt-side">
+                      <h4 class="section-title white-txt">Partnerships</h4>
+                      <div class="partnership-desc">
+                        <p class="partnership-desc-txt">
+                          Japtini food and  retail works closely with independent aggregators, commodity associations, millers,
+                          food producers, wholesalers, retailers, amongst others.
+                        </p>
+                        <div class="contact-us-li">
+                            <a href="#partner-form-modal" class="modal-trigger col">
+                                <button class="nav-pry-btn-2 btn pointer flex-div">
+                                    <span>Become a Partner</span> <span class="btn-icon">&#8250;</span>
+                                </button>
+                            </a>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </section>
+    <!--==== end of Partnerships Section  ====-->
   </div>
 </template>
 
@@ -290,43 +282,13 @@
 <script>
 export default {
   name: 'Home',
+  layout: 'default',
   mounted() {
     // const $ = require('jquery')
     const M = require('materialize-css')
 
     const elemsTab = document.querySelectorAll('.tabs');
     M.Tabs.init(elemsTab);
-
-    // Key-Points Section --- Title Carousel
-    var titleIndex = 0;
-    titleCarousel();
-
-    function titleCarousel() {
-        var i;
-        var x = document.getElementsByClassName("int-img");
-        for (i = 0; i < x.length; i++) {
-            x[i].style.display = "none";
-        }
-        titleIndex++;
-        if (titleIndex > x.length) {titleIndex = 1}
-        x[titleIndex-1].style.display = "block";
-        setTimeout(titleCarousel, 4000); // Change image every 2 seconds
-    }
-    // Key-Points Section --- Title Carousel
-    var titleIndex2 = 0;
-    titleCarousel2();
-
-    function titleCarousel2() {
-        var i;
-        var x = document.getElementsByClassName("txt-indicator-block");
-        for (i = 0; i < x.length; i++) {
-            x[i].classList.remove("active-indicator-block");
-        }
-        titleIndex2++;
-        if (titleIndex2 > x.length) {titleIndex2 = 1}
-        x[titleIndex2-1].classList.add("active-indicator-block");
-        setTimeout(titleCarousel2, 4000); // Change image every 2 seconds
-    }
   }
 }
 </script>

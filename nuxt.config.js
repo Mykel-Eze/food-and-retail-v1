@@ -25,7 +25,6 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/assets/css/fonts.css',
-    // '@/assets/css/style-x.css',
     '@/assets/css/styles.css',
     'materialize-css/dist/css/materialize.min.css',
     // 'material-design-icons/iconfont/material-icons.css'

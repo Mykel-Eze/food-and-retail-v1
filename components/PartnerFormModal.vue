@@ -124,6 +124,9 @@ button.submit-btn.btn {
     }
 }
 @media(max-width: 600px) {
+  .modal {
+    width: 90%;
+  }
     div#partner-form-modal {
         border-radius: 22px;
     }

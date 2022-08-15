@@ -4,10 +4,13 @@
             <div class="row">
                 <div class="container">
                     <div class="error-block center">
-                        <h1 class="error-page-title">Error</h1>
-                        <div class="error-404">
+                        <div v-if="error.statusCode === 404" class="error-404">
+                          <h1 class="error-page-title">Error</h1>
                           <img src="../assets/images/404.svg" alt="error 404" class="error-code-img">
                           <p class="error-description">Page not found</p>
+                        </div>
+                        <div v-else class="other-errors-mssg">
+                          <h1 class="other-error-title">An error occured</h1>
                         </div>
                         <div class="error-action-btn-wrapper">
                             <router-link to="/" custom v-slot="{ navigate }">
@@ -26,7 +29,9 @@
 
 <script>
 export default {
-    name: "Error404"
+    name: "Error",
+    props: ['error'],
+    layout: 'error'
 }
 </script>
 
@@ -61,6 +66,10 @@ button.error-action-btn {
     width: 220px;
     cursor: pointer;
 }
+h1.other-error-title {
+    color: var(--sec-color);
+    font-size: 5.2rem;
+}
 @media(min-height: 960px) {
     .error-container {
         min-height: 50vh;
@@ -69,5 +78,9 @@ button.error-action-btn {
         position: relative;
         top: 10vh;
     } */
+    h1.other-error-title {
+      color: var(--sec-color);
+      font-size: 4.2rem;
+    }
 }
 </style>
